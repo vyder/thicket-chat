@@ -1,6 +1,6 @@
 {
   "name": "thicket-chat",
-  "version": "0.3.1",
+  "version": "0.0.1",
   "description": "Remaking my node chat app as my first Thicket app.",
   "scripts": {
     "start": "node server.js --scopes=default --configurationFiles=./configuration/default.json"
