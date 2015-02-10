@@ -16,8 +16,9 @@
   },
   "homepage": "https://github.com/vyder/thicket-chat",
   "dependencies": {
-    "thicket" : "= 0.3.1",
     "bluebird": "= 2.2.2",
+    "express": "^4.11.2",
+    "thicket": "= 0.3.1",
     "underscore": "= 1.6.0"
   }
 }
